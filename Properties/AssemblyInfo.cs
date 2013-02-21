@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ClearUserPassBinding")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Hewlett-Packard Company")]
+[assembly: AssemblyCompany("ClearUserPassBinding Company")]
 [assembly: AssemblyProduct("ClearUserPassBinding")]
-[assembly: AssemblyCopyright("Copyright © Hewlett-Packard Company 2008")]
+[assembly: AssemblyCopyright("ClearUserPassBinding 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
